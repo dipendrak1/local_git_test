@@ -1,1 +1,1 @@
-print('new file 3')
+print('new file reset check')
